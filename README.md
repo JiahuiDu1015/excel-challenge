@@ -1,4 +1,4 @@
-Using the Excel workbook, modify and analyse the sample-project data and try to uncover market trends.
+# Using the Excel workbook, modify and analyse the sample-project data and try to uncover market trends.
 
   Use conditional formatting to fill each cell in the outcome column with a different colour, depending on whether the associated campaign was successful, failed, cancelled, or is 
   currently live.
