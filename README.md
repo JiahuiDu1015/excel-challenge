@@ -86,7 +86,7 @@ Statistical Analysis
     
     Creating a summary statistics table is one of the most efficient ways that data scientists can characterise quantitative metrics, such as the number of campaign backers.
     Ev
-    aluate the number of backers of successful and unsuccessful campaigns by creating your own summary statistics table.
+    Ealuate the number of backers of successful and unsuccessful campaigns by creating your own summary statistics table.
        
        Create a new worksheet in your workbook, and create one column for the number of backers of successful campaigns and one column for unsuccessful campaigns.A table containing a 
        column for the number of backers of successful campaigns and a column for unsuccessful campaigns.
